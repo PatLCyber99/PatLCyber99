@@ -1,7 +1,8 @@
 <h1>Hi, I'm Patrick! 
 
-<h2>Cyber Secuity Projects:</h2>
+<h2>Cyber Security Projects:</h2>
 
+- [SOC Automation Lab](https://github.com/PatLCyber99/SOC-Automation-Project)
 
 
 <h2>Certifications</h2>

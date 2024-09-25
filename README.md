@@ -12,7 +12,15 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-Linkedin: https://www.linkedin.com/in/patrick-lomoz/
+[Linkedin](https://www.linkedin.com/in/patrick-lomoz/)
+
+
+
+
+
+
+
+TryHackMe[<img src="https://tryhackme-badges.s3.amazonaws.com/PatLomoz99.png" alt="TryHackMe">](https://tryhackme.com/p/PatLomoz99)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

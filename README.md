@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and protecting 
 
 ## 🚀 Featured Projects
 
-### 🔍 [Network Vulnerability Scanner](https://github.com/yourusername/network-scanner)
+### 🔍 [SOC Automation Project](https://github.com/PatLCyber99/SOC-Automation-Project)
 **Python-based network vulnerability assessment tool**
 - Automated port scanning and service detection
 - CVE database integration for vulnerability identification

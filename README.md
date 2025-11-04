@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and protecting 
 - 🎓 Education: **[Your Education/Degree]**
 - 🌱 Currently learning: **Advanced Penetration Testing & Malware Analysis**
 - 💡 Interested in: **Threat Hunting, Incident Response, Digital Forensics**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[plomoz2@wgu.edu]**
 
 ---
 

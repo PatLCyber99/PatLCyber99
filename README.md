@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Patrick Lomoz]
+# 👋 Hi, I'm Patrick Lomoz
 
 ## 🛡️ Aspiring Cybersecurity Professional
 

@@ -12,7 +12,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[Linkedin](https://www.linkedin.com/in/patrick-lomoz/)
+[Linkedin](https://www.linkedin.com/in/patrick-lomoz/)<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 

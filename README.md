@@ -8,7 +8,7 @@
 <h2>Certifications</h2>
 - [CompTIA Net+](https://www.credly.com/badges/1b059f38-3448-464e-aa3d-11d166e990d7/public_url)
 - [CompTIA A+](https://www.credly.com/badges/f9df7f18-d0c3-4172-9d31-022b477d2cad/public_url)
-- [Google IT Support Professional Certificate](https://coursera.org/share/5c8f998a51b51e075e8658c675448a49)
+- [Google IT Support Professional Certificate] (https://coursera.org/share/5c8f998a51b51e075e8658c675448a49)
 <h2> 🤳 Connect with me:</h2>
 
 

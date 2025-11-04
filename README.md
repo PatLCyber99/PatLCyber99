@@ -8,11 +8,12 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and protecting 
 
 ## 🎯 About Me
 
-- 🔐 Currently working as: **[Your Current Role]**
-- 🎓 Education: **[Your Education/Degree]**
-- 🌱 Currently learning: **Advanced Penetration Testing & Malware Analysis**
+- 🔐 Currently working as: **[]**
+- 🎓 Education: **Bachelor of Science, Cybersecurity and Information Assurance
+2023-**
+- 🌱 Currently Working on: **SOC Automation Lab**
 - 💡 Interested in: **Threat Hunting, Incident Response, Digital Forensics**
-- 📫 How to reach me: **[plomoz2@wgu.edu]**
+- 📫 How to reach me: **plomoz2@wgu.edu**
 
 ---
 

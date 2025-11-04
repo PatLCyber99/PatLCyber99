@@ -148,10 +148,3 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and protecting 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square&label=Profile%20Views" />
 </div>
-
-## 🔒 Security Note
-*All security tools and techniques mentioned are used for educational purposes and authorized testing only. I advocate for responsible disclosure and ethical hacking practices.*
-
----
-
-⭐️ **"Security is not a product, but a process."** - Bruce Schneier

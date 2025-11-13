@@ -20,16 +20,16 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and protecting 
 ## 🏆 Certifications
 
 ### ✅ Completed
-- 🎖️ **CompTIA Security+** - [Year]
-- 🎖️ **[Other Certification]** - [Year]
+- 🎖️ **CompTIA Network+** 
+- 🎖️ **CompTIA A+**
+- 🎖️ **Google IT Support Professional Certificate**
 
 ### 📚 In Progress
-- 🎯 **CISSP** - Expected [Year]
-- 🎯 **CEH (Certified Ethical Hacker)** - Expected [Year]
+- 🎯 **CompTIA Security+**
+- 🎯 ** ITIL Foundation Certification**
 
 ### 🎯 Planned
-- **OSCP** (Offensive Security Certified Professional)
-- **GCIH** (GIAC Certified Incident Handler)
+- **OSCP** 
 
 ---
 

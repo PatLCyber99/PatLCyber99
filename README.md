@@ -144,8 +144,3 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and protecting 
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square&label=Profile%20Views" />
-</div>
